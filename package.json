@@ -1,0 +1,23 @@
+{
+  "name": "node_js_demo",
+  "version": "1.0.0",
+  "description": "Experimentation using Node.js and a MySQL database.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdalvarez23/RESTful-API-experimentation.git"
+  },
+  "author": "Jose D. Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdalvarez23/RESTful-API-experimentation/issues"
+  },
+  "homepage": "https://github.com/jdalvarez23/RESTful-API-experimentation#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "joi": "^13.4.0"
+  }
+}
